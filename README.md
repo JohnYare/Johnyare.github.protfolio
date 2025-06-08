@@ -5,14 +5,18 @@
 - Bachelor of Science in Electrical Engineering - Kennesaw State University (Graduated May 2024)
 
 ### Work Experience
-Facility Manager @ Kennesaw State University
+#### Facility Manager @ Kennesaw State University
 - 
 
-Technology Development Intern @ Nigerian Communication Commission
+#### Technology Development Intern @ Nigerian Communication Commission
 -
 
-Technology Intern @ National Space Research and Development Agency
+#### Technology Intern @ National Space Research and Development Agency
 - 
 
 ### Projects
-SDN-based IoT network for medical monitoring
+#### SDN-based IoT network for medical monitoring
+-
+
+#### Deep Learning Ensemble Model
+- 
