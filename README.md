@@ -1,4 +1,4 @@
-# John Yare
+# Electrical Engineer
 
 ### Education
 - Master of Science in Electrical and Computer Engineering - Kennesaw State University (Expected graduation: December 2025)
